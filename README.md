@@ -2,11 +2,11 @@
 
    ## About
 
-   This repository houses the code and other resources for the paper titled [**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**](https://www.usenix.org/system/files/usenixsecurity23-zhang-jiawei.pdf), accepted at the 32nd USENIX Security Symposium, 2023.
+   This repository houses the code for the paper titled [**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**](https://www.usenix.org/system/files/usenixsecurity23-zhang-jiawei.pdf), accepted at the 32nd USENIX Security Symposium, 2023.
 
    ## Introduction
 
-   DiffSmooth improves the robustness of machine learning models against adversarial attacks. Utilizing a two-fold strategy, it first applies diffusion models for adversarial purification and then enhances robustness via local smoothing. Our SOTA results include a certified accuracy boost from 36.0% to 53.0% under ℓ2ℓ2 radius 1.5 on ImageNet.
+   DiffSmooth improves the robustness of machine learning models against adversarial attacks. Utilizing a two-fold strategy, it first applies diffusion models for adversarial purification and then enhances robustness via local smoothing. Our SOTA results include a certified accuracy boost from $36.0\%$ to $53.0\%$ under $\ell_2$ radius $1.5$ on ImageNet.
 
    ## Getting Started
 
