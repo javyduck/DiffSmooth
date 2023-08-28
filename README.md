@@ -22,17 +22,17 @@ conda activate diffsmooth
 pip install -r requirements.txt
    ```
 
-   ### Pretrained Models
+### Pretrained Models
 
-   Place downloaded pre-trained models in the `pretrained_models` directory.
+Place downloaded pretrained models in the `pretrained_models` directory.
 
-      1. **Diffusion Models:**
-         - Improved CIFAR10 model: [Download checkpoint](https://openaipublic.blob.core.windows.net/diffusion/march-2021/cifar10_uncond_50M_500K.pt)
-         - Guided ImageNet model: [Download checkpoint](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion.pt)
-      2. **Smoothed Models:**
-         - Cohen-trained models: [Cohen GitHub](https://github.com/locuslab/smoothing)
-         - SmoothAdv-trained models: [SmoothAdv GitHub](https://github.com/Hadisalman/smoothing-adversarial/tree/master)
-         - `beit_large_patch16_224` trained with vanilla Gaussian augmentation (Cohen): [Download](https://uillinoisedu-my.sharepoint.com/:f:/g/personal/jiaweiz7_illinois_edu/EstdhnzHtXJIqhsNlv9q4nUBNcSjVvNp6pcj4ep3BTTVtg?e=iLR8dh)
+1. **Diffusion Models:**
+   - Improved CIFAR10 model: [Download checkpoint](https://openaipublic.blob.core.windows.net/diffusion/march-2021/cifar10_uncond_50M_500K.pt)
+   - Guided ImageNet model: [Download checkpoint](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion.pt)
+2. **Smoothed Models:**
+   - Cohen-trained models: [Cohen GitHub](https://github.com/locuslab/smoothing)
+   - SmoothAdv-trained models: [SmoothAdv GitHub](https://github.com/Hadisalman/smoothing-adversarial/tree/master)
+   - `beit_large_patch16_224` trained with vanilla Gaussian augmentation (Cohen): [Download](https://uillinoisedu-my.sharepoint.com/:f:/g/personal/jiaweiz7_illinois_edu/EstdhnzHtXJIqhsNlv9q4nUBNcSjVvNp6pcj4ep3BTTVtg?e=iLR8dh)
 
 ### Certification:
 
