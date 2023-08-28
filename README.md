@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
    ### Pretrained Models
 
-   Place downloaded pretrained models in the `pretrained_models` directory.
+   Place downloaded pre-trained models in the `pretrained_models` directory.
 
       1. **Diffusion Models:**
          - Improved CIFAR10 model: [Download checkpoint](https://openaipublic.blob.core.windows.net/diffusion/march-2021/cifar10_uncond_50M_500K.pt)
