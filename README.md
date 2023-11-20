@@ -83,4 +83,4 @@ python certify.py imagenet pretrained_models/beit_large_patch16_224/noise_sd0.25
 
 Thank you for your interest in DiffSmooth!
 
-If you have any questions or encounter any errors while running the code, feel free to contact [jiaweiz@illinois.edu](mailto:jiaweiz7@illinois.edu)!
+If you have any questions or encounter any errors while running the code, feel free to contact [jiaweiz7@illinois.edu](mailto:jiaweiz7@illinois.edu)!
