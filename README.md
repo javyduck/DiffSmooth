@@ -28,7 +28,7 @@ Place downloaded pretrained models in the `pretrained_models` directory.
 
 1. **Diffusion Models:**
    - Improved CIFAR10 model: [Download checkpoint](https://openaipublic.blob.core.windows.net/diffusion/march-2021/cifar10_uncond_50M_500K.pt)
-   - Guided ImageNet model: [Download checkpoint](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion.pt)
+   - Guided ImageNet model: [Download checkpoint](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion_uncond.pt)
 2. **Smoothed Models:**
    - Cohen-trained models: [Cohen GitHub](https://github.com/locuslab/smoothing)
    - SmoothAdv-trained models: [SmoothAdv GitHub](https://github.com/Hadisalman/smoothing-adversarial/tree/master)
