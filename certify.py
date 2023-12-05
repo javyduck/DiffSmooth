@@ -38,7 +38,12 @@ if __name__ == "__main__":
     # prepare output file
     f = open(args.outfile, 'w')
     print("idx\tlabel\tpredict\tradius\tcorrect\ttime", file=f, flush=True)
-
+    
+    # Check if the directory exists, and if not, create it
+    directory = os.path.dirname(args.outfile)
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+        
     # iterate through the dataset
     dataset = get_dataset(args.dataset, args.split)
     for i in range(len(dataset)):
