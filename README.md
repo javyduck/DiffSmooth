@@ -32,7 +32,7 @@ Place downloaded pretrained models in the `pretrained_models` directory.
 2. **Smoothed Models:**
    - Cohen-trained models: [Cohen GitHub](https://github.com/locuslab/smoothing)
    - SmoothAdv-trained models: [SmoothAdv GitHub](https://github.com/Hadisalman/smoothing-adversarial/tree/master)
-   - `beit_large_patch16_224` trained with vanilla Gaussian augmentation (Cohen): [Download](https://uillinoisedu-my.sharepoint.com/:f:/g/personal/jiaweiz7_illinois_edu/EstdhnzHtXJIqhsNlv9q4nUBNcSjVvNp6pcj4ep3BTTVtg?e=iLR8dh)
+   - `beit_large_patch16_224` trained with vanilla Gaussian augmentation (Cohen): [Download](https://uillinoisedu-my.sharepoint.com/:f:/g/personal/jiaweiz7_illinois_edu/EstdhnzHtXJIqhsNlv9q4nUBoLTW8sMhnNBguxKgPMVSyA?e=kS7EMm)
 
 ### Certification:
 
